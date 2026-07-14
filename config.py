@@ -4,7 +4,6 @@ import os
 import logging
 from dotenv import load_dotenv
 from logging.handlers import RotatingFileHandler
-
 load_dotenv()
 
 #Bot token @Botfather
