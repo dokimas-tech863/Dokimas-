@@ -44,7 +44,7 @@ START_MSG = os.environ.get("START_MESSAGE", "
 እባክዎ ከመጠቀምዎ በፊት የእኛን ቻናሎች ይቀላቀሉ።
 
 [የህንድ ተከታታይ ፊልሞች🍿](https://t.me/hind_amharic_et)
-[Chandra Nandini በትርጉም🇪🇹](https://t.me/Hind_Amharic_ETH)
+[Chandra Nandini በትርጉም🇪🇹](https://t.me/Chandragupta_Nandini)
 ")
 try:
     ADMINS=[]
